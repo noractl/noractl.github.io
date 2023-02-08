@@ -1,0 +1,37 @@
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: rgb(235, 233, 233);
+    color: 808080;
+}
+.home {
+    text-align: center;
+    margin-top:2%;
+    font-size: 130%;
+}
+
+
+.main {
+    margin-left: 3%;
+    font-size:100%;
+    top: 3.5%;
+    position: relative;
+}
+.links {
+    margin-left:38%;
+    position: absolute;
+    top: 14%;
+}
+.researchpapers {
+    margin-left: 67%;
+    font-size:100%;
+    top: -15.5%;
+    position: relative;
+}
+.dark-mode {
+    background-color: 808080;
+    color: rgb(235, 233, 233);
+  }
+.buttontoggle{
+    margin-top:-25%;
+    margin-left:85%;
+}
